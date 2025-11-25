@@ -1,10 +1,75 @@
-# 💫 About Me:
-I am a Full-Stack Data Scientist
-In my role, I seamlessly integrate data science models and algorithms into web applications using Django REST API, ensuring efficient data handling and seamless communication between front-end and back-end systems. I also utilize Docker for containerization, allowing for easy deployment and scalability of applications.
+# 👋 Hi, I'm Omar Mohammed
 
-Additionally, I harness the power of Celery for task management and asynchronous processing, enabling me to handle complex workflows with ease and efficiency. My proficiency in React enables me to design intuitive user interfaces that enhance the overall user experience of the applications I develop.
+**Senior Data Engineer | Real-Time & Batch Data Architect**
 
-With a strong foundation in data science and a knack for full-stack development, I am able to bridge the gap between analyzing data and creating functional, user-friendly applications that deliver valuable insights to stakeholders. My passion for innovation and problem-solving drives me to constantly explore new technologies and methodologies to stay at the forefront of my field as a Full-stack Data Scientist.
+---
+
+## 🧱 About Me
+
+- Passionate about building **scalable data pipelines** using Spark, Kafka, and modern data platforms.  
+- Experienced in both **cloud-native architectures** (AWS, Azure) and on-premise systems.  
+- Strong believer in the power of **clean code, observability, and data quality**.
+
+---
+
+## 💼 What I Do
+
+- Design and develop **ETL and ELT pipelines** (batch + streaming).  
+- Implement **data lakehouse** architectures (Bronze / Silver / Gold stages).  
+- Build **real-time processing systems** using Spark Structured Streaming & Kafka.  
+- Automate workflows and scheduling with **Airflow**.  
+- Optimize **analytics databases** (e.g. ClickHouse) for fast query performance.  
+- Create CI/CD pipelines for data solutions (using GitHub Actions or similar).  
+
+---
+
+## 🌐 Tech Stack
+
+| Domain | Technologies |
+|---|---|
+| **Data Processing** | PySpark, Spark SQL, Delta Lake |
+| **Streaming** | Apache Kafka, Spark Structured Streaming |
+| **Workflow Orchestration** | Apache Airflow |
+| **Data Storage** | S3 / ADLS, Delta / Parquet |
+| **Analytics** | ClickHouse, PostgreSQL |
+| **Cloud** | AWS, Azure |
+| **CI / CD** | GitHub Actions |
+| **Languages** | Python, SQL |
+
+---
+
+## 🚀 Featured Projects
+
+Here are some of my key repositories (feel free to click and explore):  
+- **[Real-Time Processing Pipeline]** — A Kafka → Spark Streaming system with schema validation and data quality checks.  
+- **[Lakehouse Architecture Demo]** — Multi-layer (Bronze / Silver / Gold) data lakehouse built with Delta Lake.  
+- **[Airflow Data Workflows]** — End-to-end DAGs for ingestion, transformation, and orchestration.  
+- **[Analytics in ClickHouse]** — Setup for real-time analytics using ClickHouse materialized views.  
+- **[CI/CD for Data Jobs]** — GitHub Actions to test, build, and deploy data workloads.
+
+---
+
+## 📈 GitHub Stats
+
+[![Omar’s GitHub stats](https://github-readme-stats.vercel.app/api?username=omarmohammed271&show_icons=true&theme=radical)](https://github.com/omarmohammed271)
+
+---
+
+## 📫 Get in Touch
+
+- Email: *omarmohammed271@gmail.com*  
+
+
+---
+
+## ⚡ Fun Facts
+
+- I love optimizing pipelines — every millisecond matters.  
+- Outside work: I enjoy reading about distributed systems and data infrastructure.  
+- Lifelong learner: currently exploring **feature stores** and **ML data platforms**.
+
+---
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-mohammed-0286a4150) 
